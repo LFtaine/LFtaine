@@ -1,4 +1,4 @@
-## Hi there 👋
+BONJOUR <img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/085744ca-2fa4-4775-89a2-8b9d6bc8065a" />
 
 <!--
 **LFtaine/LFtaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
